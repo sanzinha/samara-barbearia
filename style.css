@@ -1,0 +1,24 @@
+body {
+	background: hsl(0, 3%, 29%)
+}
+#banner {
+	width: 100%;
+
+}
+h1 {
+	text-align: center;
+	color:#ffffff;
+	border: 5px solid #0003b9;
+	padding: 20px;
+}
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px;
+}
+
+em strong {
+	color:#7cd0f7
+}
